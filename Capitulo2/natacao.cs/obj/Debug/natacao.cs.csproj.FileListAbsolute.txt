@@ -1,0 +1,9 @@
+C:\Users\Thaiane Braga\github\learning_csharp\Capitulo2\natacao.cs\bin\Debug\natacao.cs.exe.config
+C:\Users\Thaiane Braga\github\learning_csharp\Capitulo2\natacao.cs\bin\Debug\natacao.cs.exe
+C:\Users\Thaiane Braga\github\learning_csharp\Capitulo2\natacao.cs\bin\Debug\natacao.cs.pdb
+C:\Users\Thaiane Braga\github\learning_csharp\Capitulo2\natacao.cs\obj\Debug\natacao.cs.csprojResolveAssemblyReference.cache
+C:\Users\Thaiane Braga\github\learning_csharp\Capitulo2\natacao.cs\obj\Debug\natacao.cs.matricula.resources
+C:\Users\Thaiane Braga\github\learning_csharp\Capitulo2\natacao.cs\obj\Debug\natacao.cs.Properties.Resources.resources
+C:\Users\Thaiane Braga\github\learning_csharp\Capitulo2\natacao.cs\obj\Debug\natacao.cs.csproj.GenerateResource.Cache
+C:\Users\Thaiane Braga\github\learning_csharp\Capitulo2\natacao.cs\obj\Debug\natacao.cs.exe
+C:\Users\Thaiane Braga\github\learning_csharp\Capitulo2\natacao.cs\obj\Debug\natacao.cs.pdb
